@@ -8,6 +8,7 @@ awsome GIT, very awsome GIT, very GIT, very awsome GIT, awsome GIT, very awsome 
 * GITsome
 
 GIT said:
-> I want to phone home!
-> Where is my spaceship!
+> I want to phone home
+> Where is my spaceship
 
+<img src="http://syn.org.au/et-extraterrestrial-200fp060810/"/>
